@@ -1,7 +1,29 @@
 // https://github.com/dustypomerleau/eye-notes
 
+Pupillary function testing
+  Pupil function itself
+  Afferent visual system
+  Autonomic innervation of the eye
+
+Pupillary light reflex anatomy
+  afferent
+    ganglion cell axons to pretectal area of midbrain
+    interneurons to EW
+    2 sites of fibre decussation
+      optic chiasm
+      midbrain interneurons
+  efferent
+    EW neuron axons to ipsilateral ciliary ganglion
+      travel CNIII
+    ciliary ganglion to pupillary sphincter
+      post ganglionic parasympathetic fibers
+      short posterior ciliary nerve
+    bilateral sharing of neural input
+      afferents pre EW cannot cause anisocoria!
+      anisocoria always a sign of efferent pupillary disorder
+
 anisocoria
-  Does the pupil react to light?
+  Which is the the problem pupil? light reactivity
     if one pupil is poorly reactive
       that is the problematic pupil
     if both pupils are reactive
