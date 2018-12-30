@@ -22,7 +22,64 @@ Pupillary light reflex anatomy
       afferents pre EW cannot cause anisocoria!
       anisocoria always a sign of efferent pupillary disorder
 
-anisocoria
+RAPD
+  evidence of an asymmetrical optic neuropathy
+    unilateral optic neuropathy
+    bilateral asymmetrical optic neuropathy
+    symmetrical optic neuropathy will not produce RAPD
+  elicited by the swinging flashlight test
+    alternating monocular light stimulus
+      first eye illumination
+        pupil constriction
+      transfer
+        both pupils dilate
+        the slower the transfer the greater the dilation
+      contralateral arrival
+        pupil constriction again
+          observe speed and extent
+          compare to other side
+            if weaker constriction or dilation on arrival (pupillary escape)
+              RAPD
+            if consensual response > direct response
+              ipsilateral optic nerve deficit
+            if direct response > consensual response
+              contralateral optic nerve deficit
+            if one pupil does not react to light or if there is significant anisocoria
+              focus attention on better reacting pupil and use above two rules
+            if both pupils do not react to light
+              test cannot be used
+    sources of error
+      variation in distance and angle of illumination (one eye vs other)
+      variation in time spent on one eye vs other
+      stimulus too bright or dim
+        if too bright subtle RAPD will be missed as pupillary sphincter will always reach maximal constriction
+      changes in patient fixation / accommodation during examination.
+
+DDx of RAPD
+  dense VH
+    optical defect in refractive media of eye never produces RAPD with this exception
+  macular disease
+    only when damage is severe and strongly asymmetrical
+  unilateral optic neuropathy
+    always
+  bilateral optic neuropathy
+    only when asymmetrical
+  chiasmal disease
+    frequently
+  optic tract disease
+    nearly always
+    contralateral to the affected side
+  retrogeniculate disease
+    sometimes
+      developmental abnormalities of cerebral hemisphere associated with trans synaptic degeneration at LGN
+    contralateral to affected side
+  amblyopia
+    rare
+  uncovering of the eye
+    bandage, lid
+    transient, contralateral, secondary to differing levels of dark adaptation that quickly equilibrate
+
+Anisocoria
   Which is the the problem pupil? light reactivity
     if one pupil is poorly reactive
       that is the problematic pupil
