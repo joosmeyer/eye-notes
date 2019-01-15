@@ -106,21 +106,20 @@ Anisocoria
       constricts but settles at a larger size than the fellow eye
   Is the near reflex normal?
     light near dissociation
-      dorsal midbrain syndrome
+      dorsal midbrain syndrome aka Parinaud's syndrome
       advanced syphilis
       not pathognomonic
         can be seen in
           optic neuropathy
           advanced retinopathy
-  be systematic
-    measurements in light
-    measurements in dark
-    direct
-    consensual
-    swinging
-      RAPD?
-    near reflex
-      make sure you start them on a distant target and then switch
+  Are the lids and motility normal?
+    Savino rule
+      when confronted with an abnormality of 1 of these 3 things
+        lids
+        pupil
+        motility
+      ALWAYS: check the other 2
+      this way you won't miss CN3P, Horner, etc.
   Is there sectoral weakness?
     typical of an Adie tonic pupil
       results in vermiform movements on attempted constriction
@@ -132,33 +131,45 @@ Anisocoria
   Does the patient have a headache?
     young patient with a thunderclap HA and poorly reactive dilated pupil
       aneurysm until proven otherwise
-  Are the lids and motility normal?
-    Savino rule
-      when confronted with an abnormality of 1 of these 3 things
-        lids
-        pupil
-        motility
-      ALWAYS: check the other 2
-      this way you won't miss CN3P, Horner, etc.
   Is the rest of the eye exam normal?
     there are many causes of an RAPD
   Is the rest of the neurologic exam normal?
+  Be systematic
+    measurements in light
+    measurements in dark
+    direct
+    consensual
+    swinging
+      RAPD?
+    near reflex
+      make sure you start them on a distant target and then switch
+    oculomotor testing
+    slit lamp examination
+    rest of eye examination
 
 DDx anisocoria
   physiologic
     1/5 of normal patients if you look for it
   RAPD due to ocular disease
-  CN3P // see ptosis.txt & HT-vertical-strabismus.txt
-  Horner // see ptosis.txt
+  dilated pupil
+    CN3P // see ptosis.txt & HT-vertical-strabismus.txt
+    Adie tonic pupil
+      local ciliary ganglion or short ciliary nerve damage
+      vermiform sectoral weakness
+      denervation hypersensitivity to dilute 0.1% pilocarpine
+      despite sluggish pupil response in the light
+        near response is usually normal
+        blurry when they switch back to distance
+          but they slowly adjust
+    traumatic mydriasis
+  constricted pupil
+    Horner // see ptosis.txt
+    Dorsal midbrain syndrome (Parinaud's syndrome)
+    Argyll-Robertson pupils
+      uncommon
+
   PS 2˚ inflammation
-  Adie tonic pupil
-    local ciliary ganglion or short ciliary nerve damage
-    vermiform sectoral weakness
-    denervation hypersensitivity to dilute 0.1% pilocarpine
-    despite sluggish pupil response in the light
-      near response is usually normal
-      blurry when they switch back to distance
-        but they slowly adjust
+
   ischemia
     anterior segment ischemia
     ACG
