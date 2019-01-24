@@ -1,0 +1,41 @@
+Insertions
+  MILS
+    5.5, 6.5, 6.9, 7.7
+    spiral of tillaux
+
+Principles
+  lateral and medial orbital walls are at 45˚
+    orbital axis is therefore 22.5˚ to either wall, usually simplified to 23˚
+    in primary gaze, visual axis is 23˚ with orbital axis
+    EOM action depends on globe position at time of contraction
+  primary action
+    muscle effect when in primary position
+  subsidiary action
+    additional effects depending on position of eye
+  listing plane
+    imaginary coronal plane passing through the globes centre of rotation
+  axes of Fick
+    X
+      horisontal
+      globe rotates up and down
+    Y
+      sagittal
+      torsional movements
+        intorsion when superior limbus rotates nasally, extorsion on temporal rotation
+    Z
+      vertical
+      globe rotates left and right
+
+Medial and lateral rectus
+  muscles in horisontal plane
+    muscle contractions rotate eye around vertical axis
+      adduction and abduction
+  pulleys
+    sleeves of connective tissue which the muscles pass through a little posterior to insertion points on eye
+    attached to wall of orbit
+    positions of muscles therefore constrained in same line
+      principle effect of medial and lateal muscle remains same in sup and inf gase
+
+Superior and inferior rectus and obliques
+  axis of orbit deviated 23 degrees laterally from visual axis
+    results in a primary and secondary action for these muscles
